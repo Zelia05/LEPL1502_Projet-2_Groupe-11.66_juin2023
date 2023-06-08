@@ -1,0 +1,3 @@
+La fréquence optimale est : 129909.90990990991 [Hz]
+
+La résistance correspondant à cette fréquence est de : 111053.50176052352 [Ohm]
